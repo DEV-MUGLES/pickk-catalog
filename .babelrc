@@ -9,6 +9,7 @@
         "alias": {
           "@common": "./src/common",
           "@components": "./src/components",
+          "@containers": "./src/containers",
           "@providers": "./src/providers",
           "@src": "./src"
         }
